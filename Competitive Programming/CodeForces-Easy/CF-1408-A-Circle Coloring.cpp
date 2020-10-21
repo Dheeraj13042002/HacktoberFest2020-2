@@ -20,7 +20,7 @@ int32_t main()
 	cin>>t;
 	while(t--) {
 		int n;
-		cin>>n;
+		cin>>n; //giving input
 		f(i,1,n+1)
 			cin>>a[i];
 		f(i,1,n+1)
